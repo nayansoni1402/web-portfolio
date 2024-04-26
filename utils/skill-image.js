@@ -73,36 +73,45 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import jquery from '/public/svg/skills/jquery.svg';
+import Cakephp from '/public/svg/skills/Cakephp.svg';
+import nodejs from '/public/svg/skills/nodejs.svg';
+import laravel from '/public/svg/skills/laravel.svg';
+import opencart from '/public/svg/skills/opencart.svg';
+import AntDesgin from '/public/svg/skills/AntDesgin.svg';
+import Shadcdn from '/public/svg/skills/Shadcdn.svg';
+import PowerBI from '/public/svg/skills/PowerBI.svg';
+import GoogleAnalyics from '/public/svg/skills/GoogleAnalyics.svg';
+import questionmark from '/public/svg/skills/questionmark.svg';
+import Lottiefiles from '/public/svg/skills/lottiefiles.svg';
+import ubuntu from '/public/svg/skills/ubuntu.svg';
+import fontawesome from '/public/svg/skills/FontAwesome.svg';
+import razorpay from '/public/svg/skills/Razorpay.svg';
+import sap from '/public/svg/skills/sap.svg';
+import ajax from '/public/svg/skills/ajax.svg';
+import whatsapp from '/public/svg/skills/whatsapp.svg';
 
-// import nodejs from '/public/svg/skills/nodejs.svg';
-// import nodejs from '/public/svg/skills/nodejs.svg';
-// 'Node JS'
-// 'Sweet Alert2'
-// 'Lottiefiles',
-// 'Ajax',
-// 'Asp.net',
-// 'Select2',
-// 'Cakephp',
-// 'OpenCart',
-// 'Laravel',
-// 'Power BI',
-// 'DSA',
-// 'SMTP',
-// 'Shadcdn',
-// 'Ubuntu',
-// 'Google Analyics',
-// 'SAP',
-// 'Data Scraping',
-// 'UTM Tag',
-// 'Ant Desgin'
-// 'Razorpay',
-// 'FontAwesome',
-// 'WhatsappApi',
-// 'api dev'
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'whatsapp api': return whatsapp;
+    case 'fontawesome': return fontawesome;
+    case 'sap': return sap;
+    case 'ajax': return ajax;
+    
+    case 'ubuntu': return ubuntu;
+    case 'razorpay': return razorpay;
+    case 'lottiefiles': return Lottiefiles;
+
+    case 'google analyics': return GoogleAnalyics;
+    case 'power bi': return PowerBI;
+    case 'shadcdn': return Shadcdn;
+    case 'ant desgin': return AntDesgin;
+    case 'opencart': return opencart;
+    case 'laravel': return laravel;
+    case 'node jS': return nodejs;
+    case 'cakephp':
+      return Cakephp;
     case 'gcp':
       return gcp;
     case 'html':
@@ -254,6 +263,6 @@ export const skillsImage = (skill) => {
     case 'jquery':
       return jquery;
     default:
-      break;
+      return questionmark;
   }
 }
