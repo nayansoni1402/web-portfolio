@@ -73,7 +73,7 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import jquery from '/public/svg/skills/jquery.svg';
-import Cakephp from '/public/svg/skills/Cakephp.svg';
+import Cakephp from '/public/svg/skills/cakephp.svg';
 import nodejs from '/public/svg/skills/nodejs.svg';
 import laravel from '/public/svg/skills/laravel.svg';
 import opencart from '/public/svg/skills/opencart.svg';
@@ -85,11 +85,10 @@ import questionmark from '/public/svg/skills/questionmark.svg';
 import Lottiefiles from '/public/svg/skills/lottiefiles.svg';
 import ubuntu from '/public/svg/skills/ubuntu.svg';
 import fontawesome from '/public/svg/skills/FontAwesome.svg';
-import razorpay from '/public/svg/skills/Razorpay.svg';
+import razorpay from '/public/svg/skills/razorpay.svg';
 import sap from '/public/svg/skills/sap.svg';
 import ajax from '/public/svg/skills/ajax.svg';
 import whatsapp from '/public/svg/skills/whatsapp.svg';
-
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
