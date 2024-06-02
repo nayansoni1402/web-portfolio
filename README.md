@@ -5,7 +5,7 @@
 - **Phone:** +91 6367528121
 - **Location:** Udaipur, Rajasthan, India
 - **GitHub:** [GitHub Profile](https://github.com/nayansoni1402)
-- **Portfolio:** [Portfolio](https://nayansoni.netlify.app/)
+- **Portfolio:** [Portfolio Link](https://nayansoni.netlify.app/)
 
 ---
 
