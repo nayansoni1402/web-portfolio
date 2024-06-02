@@ -18,11 +18,7 @@ I am Nayan Soni, a professional and enthusiastic web developer with a strong pas
 
 ### Web Developer
 **The Woodenstreet Furnitures Private Limited**  
-*March 2023 - Present*
-
-### Product Manager
-**The Woodenstreet Furnitures Private Limited**  
-*October 2021 - March 2023*
+*October 2021 - Present*
 
 ### Finance Data Analyst
 **Fusion Business Solutions (P) Limited (FBSPL)**  
