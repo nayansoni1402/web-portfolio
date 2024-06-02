@@ -48,13 +48,26 @@ I am Nayan Soni, a professional and enthusiastic web developer with a strong pas
 
 ## Skills
 
-- **Languages & Frameworks:** PHP, JavaScript, Laravel, Next.js, CakePHP, OpenCart, Node.js, HTML, CSS, React, Tailwind, Bootstrap, C, C++
-- **Tools & Technologies:** MySQL, Git, AWS, SCSS, FontAwesome, Figma, Strapi, Google Analytics, TinyMCE, SweetAlert2, DOMPdf, Ajax, jQuery, Material UI, Canva, Power BI, Ant Design, SAP, Ubuntu, API Development, Lottiefiles, Select2, Asp.net, Razorpay, SMTP, Data Scraping, WhatsApp API
-- **Design & Office Tools:** Photoshop, MS Office
+
+- **Languages & Frameworks:** Next.js, Laravel, PHP, CakePHP, OpenCart, Node.js, JavaScript, HTML, CSS, React, Tailwind, Bootstrap, C, C++, Asp.net, Shadcdn
+- **Tools & Technologies:** MySQL, Git, AWS, SCSS, FontAwesome, Figma, Strapi, Google Analytics, TinyMCE, SweetAlert2, DOMPdf, Ajax, jQuery, Material UI, Ant Design, SAP, Ubuntu, API Development, Lottiefiles, Select2, Razorpay, SMTP, Data Scraping, WhatsApp API
+- **Design & Office Tools:** Photoshop, Canva, MS Office, Power BI
 
 ---
 
 ## Projects
+
+### Wooden Street
+**Role:** Full Stack Developer  
+**Tools:** Core PHP, CakePHP, OpenCart, jQuery, Bootstrap, AWS, SCSS, FontAwesome  
+**Demo:** [Wooden Street](https://www.woodenstreet.com/)  
+**Description:** An e-commerce platform specializing in high-quality wooden furniture and home decor products.
+
+### Gradding
+**Role:** Full Stack Developer  
+**Tools:** Laravel, Next.js, Node.js, jQuery, Bootstrap, AWS, SCSS, Shadcn UI  
+**Demo:** [Gradding](https://www.gradding.com/)  
+**Description:** An innovative platform aimed at revolutionizing the education sector, offering powerful features and tools for learning and academic management.
 
 ### Graphic Designer Portfolio
 **Role:** Full Stack Developer  
@@ -67,22 +80,6 @@ I am Nayan Soni, a professional and enthusiastic web developer with a strong pas
 **Tools:** Google Analytics, SMTP, MySQL, Laravel, TinyMCE, Bootstrap, JavaScript, SweetAlert2  
 **Demo:** [Coupmy](https://coupmy.com/)  
 **Description:** Designed and developed a full-stack web app for an affiliate marketing agency.
-
-### Coaching Agent Portal
-**Role:** Full Stack Developer  
-**Tools:** Laravel, Bootstrap, DOMPdf, SweetAlert2, Calendar  
-**Demo:** [NG Career](https://ngcareer.org/)  
-**Description:** A centralized platform for managing college, agent, and student data, including commissions and fees.
-
-### Visitor Book
-**Role:** Full Stack Developer  
-**Tools:** SMTP, Laravel, Bootstrap, FontAwesome  
-**Description:** A web application designed to efficiently record visitor information in office settings.
-
-### Blog Admin Panel
-**Role:** Full Stack Developer  
-**Tools:** Core PHP, TinyMCE, Ajax, jQuery, Bootstrap, FontAwesome  
-**Description:** A dynamic web application for managing blog content with a user-friendly interface.
 
 ### Blog Website - The Interior Nook
 **Role:** Full Stack Developer  
@@ -114,18 +111,21 @@ I am Nayan Soni, a professional and enthusiastic web developer with a strong pas
 **Demo:** [The Home Diaries](https://thehomediaries.com/)  
 **Description:** A dynamic blog developed with a focus on functionality and user experience.
 
-### Wooden Street
+### Coaching Agent Portal
 **Role:** Full Stack Developer  
-**Tools:** Core PHP, CakePHP, OpenCart, jQuery, Bootstrap, AWS, SCSS, FontAwesome  
-**Demo:** [Wooden Street](https://www.woodenstreet.com/)  
-**Description:** An e-commerce platform specializing in high-quality wooden furniture and home decor products.
+**Tools:** Laravel, Bootstrap, DOMPdf, SweetAlert2, Calendar  
+**Demo:** [NG Career](https://ngcareer.org/)  
+**Description:** A centralized platform for managing college, agent, and student data, including commissions and fees.
 
-### Gradding
+### Visitor Book
 **Role:** Full Stack Developer  
-**Tools:** Laravel, Next.js, Node.js, jQuery, Bootstrap, AWS, SCSS, Shadcn UI  
-**Demo:** [Gradding](https://www.gradding.com/)  
-**Description:** An innovative platform aimed at revolutionizing the education sector, offering powerful features and tools for learning and academic management.
+**Tools:** SMTP, Laravel, Bootstrap, FontAwesome  
+**Description:** A web application designed to efficiently record visitor information in office settings.
 
+### Blog Admin Panel
+**Role:** Full Stack Developer  
+**Tools:** Core PHP, TinyMCE, Ajax, jQuery, Bootstrap, FontAwesome  
+**Description:** A dynamic web application for managing blog content with a user-friendly interface.
 ---
 
 ## Contact
