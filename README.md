@@ -127,7 +127,6 @@ I am Nayan Soni, a professional and enthusiastic web developer with a strong pas
 **Role:** Full Stack Developer  
 **Tools:** Core PHP, TinyMCE, Ajax, jQuery, Bootstrap, FontAwesome  
 **Description:** A dynamic web application for managing blog content with a user-friendly interface.
----
 
 ## Contact
 
